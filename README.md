@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/132261803-187f4ecf-a318-403e-8de9-ff8a9dc5214b.png" alt="startupoftheyear"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Il s'agissait de créer une landing page.</p>
 
 <h2 align=center>📝 Description :</h2>
 
